@@ -2,6 +2,78 @@
   "domains": {
     "proxies": [
       {
+        "alias":"blznav.akamaized.net",
+        "domain":"blznav.akamaized.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blzmedia-a.akamaihd.net",
+        "domain":"blzmedia-a.akamaihd.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blizzcon-a.akamaihd.net",
+        "domain":"blizzcon-a.akamaihd.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"bnetshopus.akamaized.net",
+        "domain":"bnetshopus.akamaized.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"bnetproduct-a.akamaihd.net",
+        "domain":"bnetproduct-a.akamaihd.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"bnetcmsus-a.akamaihd.net",
+        "domain":"bnetcmsus-a.akamaihd.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blzddistkr1-a.akamaihd.net",
+        "domain":"blzddistkr1-a.akamaihd.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blzddist1-a.akamaihd.net",
+        "domain":"blzddist1-a.akamaihd.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"battle.net",
+        "domain":"battle.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blz-contentstack.com",
+        "domain":"blz-contentstack.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blizzardgearstore.com",
+        "domain":"blizzardgearstore.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blizzard.com",
+        "domain":"blizzard.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
         "alias":"api.roku.com",
         "domain":"api.roku.com",
         "protocols": ["http", "https"],
