@@ -2,6 +2,12 @@
   "domains": {
     "proxies": [
       {
+        "alias":"eu.cdn.blizzard.com",
+        "domain":"eu.cdn.blizzard.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
         "alias":"bam.nr-data.net",
         "domain":"bam.nr-data.net",
         "protocols": ["http", "https"],
