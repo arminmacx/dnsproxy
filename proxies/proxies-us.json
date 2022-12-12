@@ -2,6 +2,18 @@
   "domains": {
     "proxies": [
       {
+        "alias":"bam.nr-data.net",
+        "domain":"bam.nr-data.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"telemetry-in.battle.net",
+        "domain":"telemetry-in.battle.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
         "alias":"google.com",
         "domain":"google.com",
         "protocols": ["http", "https"],
