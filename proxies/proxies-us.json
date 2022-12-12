@@ -2,6 +2,12 @@
   "domains": {
     "proxies": [
       {
+        "alias":"google.com",
+        "domain":"google.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
         "alias":"www.google-analytics.com",
         "domain":"www.google-analytics.com",
         "protocols": ["http", "https"],
