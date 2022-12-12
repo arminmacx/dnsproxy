@@ -2,6 +2,60 @@
   "domains": {
     "proxies": [
       {
+        "alias":"www.google-analytics.com",
+        "domain":"www.google-analytics.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"www.google-analytics.com",
+        "domain":"www.google-analytics.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"eu.api.blizzard.com",
+        "domain":"eu.api.blizzard.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"eu.patch.battle.net",
+        "domain":"eu.patch.battle.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"alert-eu.battle.net",
+        "domain":"alert-eu.battle.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"level3.blizzard.com",
+        "domain":"level3.blizzard.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"beta.content-ui.battle.net",
+        "domain":"beta.content-ui.battle.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"blzprofile.akamaized.net",
+        "domain":"blzprofile.akamaized.net",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
+        "alias":"status.wow-europe.com",
+        "domain":"status.wow-europe.com",
+        "protocols": ["http", "https"],
+        "dnat": true
+      },
+      {
         "alias":"blznav.akamaized.net",
         "domain":"blznav.akamaized.net",
         "protocols": ["http", "https"],
