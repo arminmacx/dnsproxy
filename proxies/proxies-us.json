@@ -8,12 +8,6 @@
         "dnat": true
       },
       {
-        "alias":"www.google-analytics.com",
-        "domain":"www.google-analytics.com",
-        "protocols": ["http", "https"],
-        "dnat": true
-      },
-      {
         "alias":"eu.api.blizzard.com",
         "domain":"eu.api.blizzard.com",
         "protocols": ["http", "https"],
